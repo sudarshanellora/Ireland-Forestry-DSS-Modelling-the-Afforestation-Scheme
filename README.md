@@ -1,5 +1,16 @@
 # Ireland-Forestry-DSS-Modelling-the-Afforestation-Scheme
-This repository showcases a data-driven Decision Support System (DSS) designed to optimise Ireland’s afforestation strategy. It combines carbon sequestration modelling, species–soil suitability analysis, and financial projections within an interactive analytics environment. The platform is built on a clear decision philosophy: Quantitative evidence first, analytical modelling second, strategic insight final.
+This repository presents a data-driven Decision Support System (DSS) designed to optimise Ireland’s afforestation strategy (2023–2027). It integrates carbon sequestration modelling, species–soil suitability analysis, and financial projections within an interactive Tableau analytics environment. The platform is built on a core principle: Data-driven analysis first, model-based insights second, policy-aligned decisions final.
+
+![Tableau](https://img.shields.io/badge/Tableau-Public-orange)
+![Framework](https://img.shields.io/badge/Framework-FDIKW-blue)
+![Method](https://img.shields.io/badge/Method-MCDA-green)
+![Analytics](https://img.shields.io/badge/Analytics-Carbon_Modelling-darkgreen)
+![GIS](https://img.shields.io/badge/Data-GIS-lightgrey)
+![Domain](https://img.shields.io/badge/Domain-Sustainability-brightgreen)
+![Strategy](https://img.shields.io/badge/Focus-Climate_Strategy-blueviolet)
+![Type](https://img.shields.io/badge/System-Decision_Support-black)
+![Viz](https://img.shields.io/badge/Visualisation-Tableau-yellow)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 Tableau Public Decision Intelligence FDIKW MCDA Sustainability Analytics Climate Strategy Data Visualisation
 
